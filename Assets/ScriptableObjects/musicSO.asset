@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ffe1e7e40d09bd4dbbe7d70c672b255, type: 3}
+  m_Name: musicSO
+  m_EditorClassIdentifier: 
+  Comment: Every long, probably loopable sound in the game. Ambients, music pieces
+    and such.
+  m_sound:
+  - nameOfSound: mainMenu
+    clip: {fileID: 8300000, guid: a54deb7dc32e3f14792b9c978a64daa3, type: 3}
