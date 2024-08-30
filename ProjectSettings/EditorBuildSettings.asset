@@ -4,6 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MuseumTesting.unity
+    guid: d13577807ff7bad409394d7ab5187f8a
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 33b1ce7233d2e9d44be278a428ca1c3a, type: 2}
