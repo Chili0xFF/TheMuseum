@@ -8,6 +8,9 @@
         },
         {
             "m_Id": "05e75eaafba3417386d9907e67400368"
+        },
+        {
+            "m_Id": "a7cf12057f23400d8b6e520a3e30ce7e"
         }
     ],
     "m_Keywords": [],
@@ -892,6 +895,9 @@
         },
         {
             "m_Id": "05e75eaafba3417386d9907e67400368"
+        },
+        {
+            "m_Id": "a7cf12057f23400d8b6e520a3e30ce7e"
         }
     ]
 }
@@ -1024,6 +1030,34 @@
     },
     "m_Labels": [],
     "m_Space": 2
+}
+
+{
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
+    "m_ObjectId": "a7cf12057f23400d8b6e520a3e30ce7e",
+    "m_Guid": {
+        "m_GuidSerialized": "edcde572-6c97-4fe3-a140-31cd5490c11f"
+    },
+    "m_Name": "Intensity",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "Intensity",
+    "m_DefaultReferenceName": "_Intensity",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
+    "m_DismissedVersion": 0,
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_Value": 0.0,
+    "m_FloatType": 0,
+    "m_RangeValues": {
+        "x": 0.0,
+        "y": 1.0
+    }
 }
 
 {
@@ -1322,7 +1356,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Power",
     "m_StageCapability": 3,
-    "m_Value": 6.829999923706055,
+    "m_Value": 1.2000000476837159,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
@@ -1542,9 +1576,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -628.0,
-            "y": 589.0,
-            "width": 135.0,
+            "x": -765.0,
+            "y": 616.0,
+            "width": 135.00006103515626,
             "height": 34.0
         }
     },
